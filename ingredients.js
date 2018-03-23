@@ -1,7 +1,8 @@
-//while-loop
 
 var ingredients = ["eggs", "milk", "flour", "sugar", "baking soda", "baking powder", "chocolate chips", "bananas"];
 var repeat = 0;
+
+// while-loop
 while (repeat < ingredients.length){
   console.log(ingredients[repeat])
   repeat++
